@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Exp2_S5_Sebastian_Cardenas" id="3C70F22D-4DCF-40DE-A7B1-4A5524BF7C45" version="3.5">
+<createdBy>NVITSVBESSS</createdBy>
+<createdTime>2025-09-15 21:51:14 UTC</createdTime>
+<ownerDesignName>Exp2_S5_Sebastian_Cardenas</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>3C70F22D-4DCF-40DE-A7B1-4A5524BF7C45</designId>
+</OSDM_Design>
